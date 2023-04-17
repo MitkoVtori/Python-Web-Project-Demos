@@ -1,0 +1,94 @@
+body{text-align:center;}
+
+.programming-basics {
+    background: #2265F3;
+    float:left;
+    width: 100%;
+    font-size: 35px;
+    text-shadow: 2px 4px 4px #484640;
+}
+
+.programming-basics button {
+    background: #2265F3;
+    border: none;
+    color: white;
+    text-shadow: 2px 4px 4px #ADAAA5;
+}
+
+.programming-basics p {
+    color: white;
+    font-size: 25px;
+}
+
+.course {
+    padding-top: 475px;
+    padding-bottom: 95px;
+    text-align: center;
+}
+
+button {
+    background: #F8B349;
+    width: 850px;
+    height: 75px;
+    font-size: 45px;
+    color: #494743;
+}
+
+article {
+    background: #F6F5F1;
+    border: 1px solid #D5D4D3;
+    overflow: hidden;
+    line-height: 200%;
+    margin-left: 27%;
+    width: 850px;
+    margin: 0 auto;
+    text-align: center;
+    transition: all .5s ease-in-out;
+    height: 0;
+}
+
+article:target {
+    height: 300px;
+}
+
+#lesson-1431:target {
+    height: 180px;
+}
+
+#lesson-1432:target {
+    height: 275px;
+}
+
+#lesson-1434:target {
+    height: 400px;
+}
+
+#lesson-1435:target {
+    height: 400px;
+}
+
+#lesson-1436:target {
+    height: 145px;
+}
+
+.description {
+    margin-top: 5%;
+    font-size: 25px;
+}
+
+#no-courses {
+    font-size: 50px;
+}
+
+.end {
+    background: #FDBF43;
+}
+
+.end h1, h3 {
+    color: #F7F5F3;
+    text-shadow: 2px 4px 4px #484640;
+}
+
+.end p {
+    text-shadow: 5px -1px 5px #49EEFF;
+}
